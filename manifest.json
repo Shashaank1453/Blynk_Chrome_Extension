@@ -1,0 +1,14 @@
+{
+    "name":"Blynk",
+    "version":"1.0.0",
+    "manifest_version":3,
+    "browser_action":{
+        "default_popup":"popup.html",
+        "default_icon":"Blynk.png"
+    },
+    "description": "A mimic of Blynk's UI to control lights of Shashaank's room.",
+    "icons":{
+        "128":"Blynk.png"
+    },
+    "permissions":["activeTab"]
+}
